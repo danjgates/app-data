@@ -30,10 +30,9 @@ Syntax highlighted code block
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### HTML
-```html
+
 <iframe src="https://maize-test3.herokuapp.com" height="500" width="100%" frameBorder="0"></iframe>
 
-```
 
 ### Jekyll Themes
 
