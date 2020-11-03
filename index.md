@@ -4,7 +4,6 @@ You can use the [editor on GitHub](https://github.com/danjgates/app-data/edit/gh
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<iframe src="https://appdhafer.herokuapp.com/appdhafer" height="500" width="100%" frameBorder="0"></iframe>
 
 ### Markdown
 
