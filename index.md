@@ -1,6 +1,6 @@
 ## Welcome To The Project
 
-<iframe src="https://maize-test3.herokuapp.com" height="500" width="100%" frameBorder="0"></iframe>
+<iframe src="https://maize-test3.herokuapp.com" height="500" width="90%" frameBorder="0"></iframe>
 
 ## How is maize adaptation to future environments influenced by climate change
 
