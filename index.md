@@ -1,8 +1,12 @@
 ## Welcome To The Project
 
+<iframe src="https://maize-test3.herokuapp.com" height="500" width="100%" frameBorder="0"></iframe>
+
+## How is maize adaptation to future environments influenced by climate change
+
 My research focuses on modeling the type of genomic change required for plant adaptation to keep up future environments under models of changing climates.
 Naturally, one major component of this work is understanding how environmental adaptation is distributed within and among genomes.
-I have a much more in depth study of that for maize landraces available here[https://www.biorxiv.org/content/10.1101/706739v1.abstract].
+I have a much more in depth study of that for maize landraces available [here](https://www.biorxiv.org/content/10.1101/706739v1.abstract).
 In order to model the current distribution of adaptation in maize landraces, I use a random forest machine learning approach to model how alleles are distributed between current populations under contemporary environments.
 From these models we can replace contemporary climates with estimates of what future climates will look like in order to measure how much genomic change would need to take place for plants to maintain their current levels of environmental adaptation.
 
@@ -35,4 +39,4 @@ Finally, I have made these results available in a dashboard that allows users to
 
 ### Interactive Dashboard
 
-<iframe src="https://maize-test3.herokuapp.com" height="500" width="100%" frameBorder="0"></iframe>
+
