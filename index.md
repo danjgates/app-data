@@ -1,6 +1,6 @@
 ## Welcome To The Project
 
-<iframe src="https://maize-test3.herokuapp.com" height="500" width="90%" frameBorder="0"></iframe>
+<iframe src="https://maize-test3.herokuapp.com" height="500" width="80%" frameBorder="0"></iframe>
 
 ## How is maize adaptation to future environments influenced by climate change
 
@@ -35,8 +35,5 @@ Finally, we know that maize has adapted to different elevations where it is grow
 Here the x axis indicates the elevational class that individuals are from and the y-axis represents the difference in relatedness between an individuals' historical genotype and the genotype that would be adapted to a future scenario.
 Finally, I have made these results available in a dashboard that allows users to toggle pathway and institute with the top dropdowns and time using the slider below the principal component plot.
 
-
-
-### Interactive Dashboard
 
 
